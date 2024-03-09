@@ -69,8 +69,7 @@ const ROWING_TITLE = IS_CHINESE ? '划船' : 'Rowing';
 const KAYAKING_TITLE = IS_CHINESE ? '皮划艇' : 'Kayaking';
 const SNOWBOARD_TITLE = IS_CHINESE ? '单板滑雪' : 'Snowboard';
 const SKI_TITLE = IS_CHINESE ? '双板滑雪' : 'Ski';
-const ROAD_TRIP_TITLE = IS_CHINESE ? '公路自驾' : 'RoadTrip';
-const DRIVE_TITLE = IS_CHINESE ? '自驾' : 'Drive';
+const ROAD_TRIP_TITLE = IS_CHINESE ? '自驾' : 'RoadTrip';
 const FLIGHT_TITLE = IS_CHINESE ? '飞行' : 'Flight';
 
 const RUN_TITLES = {
@@ -90,7 +89,6 @@ const RUN_TITLES = {
   FLIGHT_TITLE,
   SNOWBOARD_TITLE,
   SKI_TITLE,
-  DRIVE_TITLE,
 };
 
 export {
@@ -136,7 +134,6 @@ export const HIKE_COLOR = pink;
 export const SWIM_COLOR = gold;
 export const ROWING_COLOR = cyan;
 export const ROAD_TRIP_COLOR = purple;
-export const DRIVE_COLOR = purple;
 export const FLIGHT_COLOR = wpink;
 export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = wpink;
