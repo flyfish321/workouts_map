@@ -69,7 +69,6 @@ TYPE_DICT = {
     "Swim": "Swim",
     "rowing": "Rowing",
     "RoadTrip": "RoadTrip",
-    "driving_general": "Drive",  # garmin
     "flight": "Flight",
     "kayaking": "Kayaking",
     "Snowboard": "Snowboard",
@@ -90,7 +89,6 @@ MAPPING_TYPE = [
     "Kayaking",
     "Snowboard",
     "Ski",
-    "Drive",
 ]
 
 STRAVA_GARMIN_TYPE_DICT = {
@@ -100,5 +98,4 @@ STRAVA_GARMIN_TYPE_DICT = {
     "VirtualRide": "VirtualRide",
     "Walk": "walking",
     "Swim": "swimming",
-  "Drive": "driving_general",
 }
