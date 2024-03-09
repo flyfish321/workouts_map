@@ -100,4 +100,5 @@ STRAVA_GARMIN_TYPE_DICT = {
     "VirtualRide": "VirtualRide",
     "Walk": "walking",
     "Swim": "swimming",
+  "Drive": "driving_general",
 }
