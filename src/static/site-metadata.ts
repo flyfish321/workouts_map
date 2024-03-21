@@ -18,8 +18,8 @@ const data: ISiteMetadataResult = {
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Zh',
-      url: 'https://flyfish321.github.io/workouts_map_zh/',
+      name: 'Blog',
+      url: 'https://flyfish321.github.io/gitblog/',
     },
     {
       name: 'About',
