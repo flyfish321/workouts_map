@@ -111,7 +111,7 @@ python3(python) scripts/xingzhe_sync.py w0xxx 185000 --from-auth-token
 
 </details>
 
-### 自驾(Google 路书)
+### 自驾(Google -路书)
 
 <details>
 <summary>导入谷歌地图的KML路书</summary>
