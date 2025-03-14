@@ -146,4 +146,4 @@ python3(python) scripts\kml2polyline.py
 
 # 致谢
 
-- @[yihong0618](https://github.com/yihong0618) 特别棒的项目 [running_page](https://github.com/yihong0618/running_page) 非常感谢
+- @[yihong0618](https://github.com/yihong0618) 特别棒的项目 [running_page](https://github.com/yihong0618/running_page) 非常感谢（20250314）
