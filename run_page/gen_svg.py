@@ -186,8 +186,8 @@ def main():
     dest="github_style",
     metavar="GITHUB_STYLE",
     type=str,
-    default="align-firstday",
-    help='github svg style; "align-firstday", "align-monday", "align-january-first" (default: "align-firstday").',
+    default="align-january-first",
+    help='github svg style; "align-firstday", "align-monday", "align-january-first" (default: "align-january-first").',
 )
 
     for _, drawer in drawers.items():
