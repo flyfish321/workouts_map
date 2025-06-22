@@ -182,13 +182,13 @@ def main():
     )
 
     args_parser.add_argument(
-        "--github-style",
-        dest="github_style",
-        metavar="GITHUB_STYLE",
-        type=str,
-        default="align-firstday",
-        help='github svg style; "align-firstday", "align-monday" (default: "align-firstday").',
-    )
+    "--github-style",
+    dest="github_style",
+    metavar="GITHUB_STYLE",
+    type=str,
+    default="align-firstday",
+    help='github svg style; "align-firstday", "align-monday", "align-january-first" (default: "align-firstday").',
+)
 
     for _, drawer in drawers.items():
         drawer.create_args(args_parser)
