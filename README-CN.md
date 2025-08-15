@@ -13,7 +13,7 @@
 
 本项目基于 [running_page](https://github.com/yihong0618/running_page/blob/master/README-CN.md) , 添加了支持多种运动类型。部署可参考原项目操作步骤
 
-## 新增特性
+## 新增特性（20250815）
 
 1. 支持多种运动类型，如骑行、徒步、游泳
 1. 支持 APP 数据获取
